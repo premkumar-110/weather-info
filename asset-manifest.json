@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "//premkumar-110.github.io/weather-info/static/css/main.97e06e19.css",
+    "main.js": "//premkumar-110.github.io/weather-info/static/js/main.c00b5cdc.js",
+    "static/media/background.webp": "//premkumar-110.github.io/weather-info/static/media/background.c6e8b2707c8601174046.webp",
+    "index.html": "//premkumar-110.github.io/weather-info/index.html",
+    "main.97e06e19.css.map": "//premkumar-110.github.io/weather-info/static/css/main.97e06e19.css.map",
+    "main.c00b5cdc.js.map": "//premkumar-110.github.io/weather-info/static/js/main.c00b5cdc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97e06e19.css",
+    "static/js/main.c00b5cdc.js"
+  ]
+}
